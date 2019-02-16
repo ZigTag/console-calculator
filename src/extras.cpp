@@ -7,7 +7,10 @@ void doCalculations()
 {
 	char z{ askOperator() };
 
-	if (z == '+')
+	if (z == 'h')
+		std::cout << "The availible operators are +, -, *, /, %, ^, #.\n"
+				  << "Please restart the program.\n";
+	else if (z == '+')
 		addNumbers();
 	else if (z == '-')
 		subtractNumbers();
@@ -24,4 +27,3 @@ void doCalculations()
 	else 
 		std::cout << "You have entered an incorrect symbol, please restart the program";
 }
-

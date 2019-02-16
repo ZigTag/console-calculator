@@ -19,7 +19,7 @@ int askInt()
 //Asks which operator should be used
 char askOperator()
 {
-	std::cout << "Please enter an operator (+, -, *, /, %, ^, or #): ";
+	std::cout << "Please enter an operator, type h for the availible operators: ";
 	char x;
 	std::cin >> x;
 	return x;
