@@ -1,3 +1,3 @@
 # console-calculator
 
-Atm working on learning rust, so I will probabaly rewrite it in rust when im done learning it
+A small console calculator that isn't very thought out. Planning on rewriting in Rust, may or may not happen. Stay tuned...
