@@ -1,3 +1,4 @@
 # console-calculator
 
-A small console calculator that isn't very thought out. Planning on rewriting in Rust, may or may not happen. Stay tuned...
+The project has moved to Gitlab
+https://gitlab.com/zigtag/console-calculator
